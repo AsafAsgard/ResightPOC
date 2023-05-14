@@ -590,7 +590,7 @@ MonoBehaviour:
   disableCollider: 0
   recalculateColliderInterval: 1
   occlusionManager: {fileID: 0}
-  renderingOptions_: 1
+  renderingOptions_: 3
   materialNormals: {fileID: 2100000, guid: 780ad7f07f5fd4b8b9bc850c157c1ab6, type: 2}
   materialColors: {fileID: 2100000, guid: ec86e76cb97eb4db4855e51efc439b1c, type: 2}
   materialShadows: {fileID: 2100000, guid: 385cc3724e69c4ac49400bf41a0e9a3d, type: 2}
@@ -721,6 +721,10 @@ PrefabInstance:
     - target: {fileID: 3870289607543120196, guid: 6d54b16e4fde0e345af990ec109564d6, type: 3}
       propertyPath: m_Name
       value: Object
+      objectReference: {fileID: 0}
+    - target: {fileID: 3870289607543120196, guid: 6d54b16e4fde0e345af990ec109564d6, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4850798107302145390, guid: 6d54b16e4fde0e345af990ec109564d6, type: 3}
       propertyPath: m_RootOrder
