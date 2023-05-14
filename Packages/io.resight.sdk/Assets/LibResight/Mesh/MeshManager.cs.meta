@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f998180251fd34591962c705dce9f204
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - meshBlockPrefab: {fileID: 7384648679344359546, guid: 72c57499eb2fd41eba0ac0fa81e01ddf, type: 3}
+  - materialOverride: {instanceID: 0}
+  - materialNormals: {fileID: 2100000, guid: 780ad7f07f5fd4b8b9bc850c157c1ab6, type: 2}
+  - materialColors: {fileID: 2100000, guid: ec86e76cb97eb4db4855e51efc439b1c, type: 2}
+  - materialShadows: {fileID: 2100000, guid: 385cc3724e69c4ac49400bf41a0e9a3d, type: 2}
+  - materialColorsAndShadows: {fileID: 2100000, guid: da54131101f094709ad729613dca1915, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

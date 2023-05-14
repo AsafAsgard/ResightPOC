@@ -1,0 +1,26 @@
+{
+  "name": "io.resight.sdk",
+  "version": "0.3.1",
+  "displayName": "Resight Engine",
+  "description": "Resight Engine For Advanced AR Experiences",
+  "unity": "2021.3",
+  "unityRelease": "15f1",
+  "dependencies": {
+    "com.unity.xr.arfoundation": "5.1.0-pre.2",
+    "com.unity.modules.xr": "1.0.0",
+    "com.unity.xr.arkit": "5.1.0-pre.2"
+  },
+  "samples": [
+      {
+          "displayName": "Resight Samples",
+          "description": "Scenes demonstrating Resight Engine features",
+          "path": "Samples~/Resight Samples"
+      }
+  ],
+  "author": {
+    "name": "Resight LTD",
+    "email": "contact@resight.io",
+    "url": "https://resight.io"
+  },
+  "type": "library"
+}

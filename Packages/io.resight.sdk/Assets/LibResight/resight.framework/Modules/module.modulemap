@@ -1,0 +1,13 @@
+framework module resight {
+  umbrella header "libResight.h"
+  header "events_types.hpp"
+  header "libResight_private.h"
+
+  export *
+  module * { export * }
+}
+
+module resight.Swift {
+  header "resight-Swift.h"
+  requires objc
+}
