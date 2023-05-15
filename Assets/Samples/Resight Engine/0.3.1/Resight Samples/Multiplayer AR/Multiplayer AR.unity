@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.17748746, g: 0.22220503, b: 0.304372, a: 1}
+  m_IndirectSpecularColor: {r: 0.17757931, g: 0.22232312, b: 0.30451894, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -159,6 +159,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_TrackingType: 0
   m_UpdateType: 0
+  m_IgnoreTrackingState: 0
   m_PositionInput:
     m_UseReference: 0
     m_Action:
@@ -213,6 +214,18 @@ MonoBehaviour:
         m_Groups: 
         m_Action: Rotation
         m_Flags: 0
+      m_Flags: 0
+    m_Reference: {fileID: 0}
+  m_TrackingStateInput:
+    m_UseReference: 0
+    m_Action:
+      m_Name: 
+      m_Type: 0
+      m_ExpectedControlType: 
+      m_Id: 
+      m_Processors: 
+      m_Interactions: 
+      m_SingletonActionBindings: []
       m_Flags: 0
     m_Reference: {fileID: 0}
   m_PositionAction:
@@ -536,8 +549,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c821f15bdc1f4c078d78649bbe6e5ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  devKey: 
-  nameSpace: 
+  devKey: b3BoZWtAY2FtZWxvdC1haS5jb20sMWlDMklob1BObg==
+  nameSpace: Dev4
   cameraManager: {fileID: 85066817}
 --- !u!4 &973972238
 Transform:
