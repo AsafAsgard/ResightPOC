@@ -1443,6 +1443,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1510668905}
   - component: {fileID: 1510668906}
+  - component: {fileID: 1510668907}
   m_Layer: 0
   m_Name: Game Manager
   m_TagString: Untagged
@@ -1476,6 +1477,22 @@ MonoBehaviour:
   m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 59df28a08573740b8928ac5388c6e93a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cursorObject: {fileID: 1305647287683747624, guid: cef345b844cb04893827951e850d2876, type: 3}
+  objectToPlace: {fileID: 8228938860797362815, guid: f34a8205acfdc4bce850b7101b6275a1, type: 3}
+  raycastManager: {fileID: 980754551}
+  useCursor: 1
+--- !u!114 &1510668907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1510668903}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b442de7b4f82c2440a7e6ca81549a264, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   cursorObject: {fileID: 1305647287683747624, guid: cef345b844cb04893827951e850d2876, type: 3}
