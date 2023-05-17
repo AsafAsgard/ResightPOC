@@ -1366,7 +1366,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _banners:
-  - prefab: {fileID: 2861109817877854453, guid: a16b0a0475b57e748af6dabb776ee6bd, type: 3}
+  - prefab: {fileID: 2861109817877854453, guid: f627a917f3e024c42b037a06d884644e, type: 3}
     button: {fileID: 1118341255}
   _cursorTrn: {fileID: 1926488373}
 --- !u!114 &1387320117
