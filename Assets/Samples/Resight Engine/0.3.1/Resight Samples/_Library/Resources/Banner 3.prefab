@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1537878013841264658}
   - component: {fileID: 491733080473068936}
   m_Layer: 0
-  m_Name: Banner 1
+  m_Name: Banner 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -63,7 +63,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 80d42e27ff203024b957b6706d06e090, type: 2}
+  - {fileID: 2100000, guid: 20e501e31d5b3f646a0ac6778eac00f1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

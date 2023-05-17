@@ -1307,6 +1307,10 @@ MonoBehaviour:
   _banners:
   - prefab: {fileID: 2861109817877854453, guid: f627a917f3e024c42b037a06d884644e, type: 3}
     button: {fileID: 1118341255}
+  - prefab: {fileID: 2861109817877854453, guid: 41a1efb1cf5dc4a53b78c55b2b6157aa, type: 3}
+    button: {fileID: 83210480}
+  - prefab: {fileID: 7290382436497514522, guid: 1d32458266c434644b134cf2798929b0, type: 3}
+    button: {fileID: 95592811}
   _cursorTrn: {fileID: 1926488373}
 --- !u!114 &1387320117
 MonoBehaviour:
