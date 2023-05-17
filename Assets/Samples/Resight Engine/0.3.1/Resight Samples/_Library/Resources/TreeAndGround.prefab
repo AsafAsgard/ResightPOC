@@ -29,7 +29,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 2242913231742717629}
+  - {fileID: 2084507480577600766}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -49,7 +49,7 @@ MonoBehaviour:
   minRotationChange: 0.01
   _instanceId: 0
   _prefabId: TreeAndGround
---- !u!1001 &500957187377884230
+--- !u!1001 &377744750647889413
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -110,8 +110,8 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: c108b527c78082b4b9cd95bea298a491, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0576ce2961c135243834a359005630ab, type: 3}
---- !u!4 &2242913231742717629 stripped
+--- !u!4 &2084507480577600766 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1861020578033050363, guid: 0576ce2961c135243834a359005630ab, type: 3}
-  m_PrefabInstance: {fileID: 500957187377884230}
+  m_PrefabInstance: {fileID: 377744750647889413}
   m_PrefabAsset: {fileID: 0}
