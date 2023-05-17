@@ -29,7 +29,7 @@ public class CursorPlacement: MonoBehaviour
             UpdateCursor();
         }
 
-        /*if (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began)
+        if (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began)
         {
             if (useCursor)
             {
@@ -45,7 +45,6 @@ public class CursorPlacement: MonoBehaviour
                 }
             }
         }
-        */
     }
 
     void UpdateCursor()
