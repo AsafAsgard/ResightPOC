@@ -640,7 +640,7 @@ namespace RuntimeGizmos
 				if(Physics.Raycast(myCamera.ScreenPointToRay(Input.mousePosition), out hitInfo, Mathf.Infinity, selectionMask))
 				{
 					Transform target = hitInfo.transform;
-					if((target.tag=="Target") && !PlatformManager.instance.IsMobile) // Assumption: mock weapon is tagged with "Target"
+					if(target.tag=="Target") // Assumption: mock weapon is tagged with "Target"
                     {
 						if (isAdding)
 						{
