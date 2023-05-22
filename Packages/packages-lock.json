@@ -1,69 +1,5 @@
 {
   "dependencies": {
-    "com.atteneder.gltfast": {
-      "version": "file:com.atteneder.gltfast@76f76584a1",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.unity.modules.jsonserialize": "1.0.0",
-        "com.unity.modules.unitywebrequest": "1.0.0",
-        "com.unity.mathematics": "1.2.6",
-        "com.unity.burst": "1.6.6"
-      }
-    },
-    "com.gameworkstore.googleprotobufunity": {
-      "version": "file:com.gameworkstore.googleprotobufunity@655ece78bd",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
-    "com.google.external-dependency-manager": {
-      "version": "file:com.google.external-dependency-manager@ba0856d357b9",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
-    "com.google.firebase.app": {
-      "version": "file:com.google.firebase.app@8f280ee7304a",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.google.external-dependency-manager": "1.2.175"
-      }
-    },
-    "com.google.firebase.auth": {
-      "version": "file:com.google.firebase.auth@4870eacd1526",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.google.firebase.app": "10.5.0"
-      }
-    },
-    "com.google.firebase.database": {
-      "version": "file:com.google.firebase.database@78cad674741d",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.google.firebase.auth": "10.5.0"
-      }
-    },
-    "com.google.firebase.storage": {
-      "version": "file:com.google.firebase.storage@19ded2720f52",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.google.firebase.auth": "10.5.0"
-      }
-    },
-    "com.unity.burst": {
-      "version": "1.6.6",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.mathematics": "1.2.1"
-      },
-      "url": "https://packages.unity.com"
-    },
     "com.unity.collab-proxy": {
       "version": "2.0.4",
       "depth": 0,
@@ -135,7 +71,7 @@
     },
     "com.unity.mathematics": {
       "version": "1.2.6",
-      "depth": 1,
+      "depth": 2,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -274,21 +210,6 @@
         "com.unity.xr.legacyinputhelpers": "2.1.7"
       },
       "url": "https://packages.unity.com"
-    },
-    "io.resight.offlineeditor": {
-      "version": "file:io.resight.offlineeditor",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "io.resight.sdk": "0.3.1",
-        "com.atteneder.gltfast": "5.0.0",
-        "com.gameworkstore.googleprotobufunity": "3.15.2012",
-        "com.google.external-dependency-manager": "1.2.175",
-        "com.google.firebase.app": "10.5.0",
-        "com.google.firebase.auth": "10.5.0",
-        "com.google.firebase.database": "10.5.0",
-        "com.google.firebase.storage": "10.5.0"
-      }
     },
     "io.resight.sdk": {
       "version": "file:io.resight.sdk",
