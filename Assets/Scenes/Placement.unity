@@ -134,10 +134,6 @@ PrefabInstance:
       propertyPath: _cursorTrn
       value: 
       objectReference: {fileID: 1926488373}
-    - target: {fileID: 8361260455385220980, guid: 67387b5d0a1efba4db32e6aed899c222, type: 3}
-      propertyPath: _banners.Array.data[0].prefab
-      value: 
-      objectReference: {fileID: 8228938860797362815, guid: 019b7f174d9ab6842a5e1ea0d12984c2, type: 3}
     - target: {fileID: 8361260455672002117, guid: 67387b5d0a1efba4db32e6aed899c222, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -525,7 +521,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1760703bbd54c04488a8d10600262ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_PlanePrefab: {fileID: 2382790633686604821, guid: 3949cb29d42f94b68bd1081733c98438, type: 3}
+  m_PlanePrefab: {fileID: 8464689525848873622, guid: bcf06f3ab66960a44a550b14f2077205, type: 3}
   m_DetectionMode: -1
 --- !u!114 &980754553
 MonoBehaviour:
