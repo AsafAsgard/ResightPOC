@@ -280,11 +280,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 67387b5d0a1efba4db32e6aed899c222, type: 3}
---- !u!1 &9788520 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8361260455385220982, guid: 67387b5d0a1efba4db32e6aed899c222, type: 3}
-  m_PrefabInstance: {fileID: 9788519}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &352392719
 GameObject:
   m_ObjectHideFlags: 0
@@ -861,11 +856,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1510668903}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b442de7b4f82c2440a7e6ca81549a264, type: 3}
+  m_Script: {fileID: 11500000, guid: 59df28a08573740b8928ac5388c6e93a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cursorObject: {fileID: 1926488374}
-  objectToPlace: {fileID: 9788520}
+  cursorObject: {fileID: 1305647287683747624, guid: cef345b844cb04893827951e850d2876, type: 3}
+  objectToPlace: {fileID: 8228938860797362815, guid: f34a8205acfdc4bce850b7101b6275a1, type: 3}
   raycastManager: {fileID: 980754551}
   useCursor: 1
 --- !u!1 &1683970366
@@ -1022,10 +1017,5 @@ PrefabInstance:
 --- !u!4 &1926488373 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5541512432699820176, guid: cef345b844cb04893827951e850d2876, type: 3}
-  m_PrefabInstance: {fileID: 1926488372}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &1926488374 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1305647287683747624, guid: cef345b844cb04893827951e850d2876, type: 3}
   m_PrefabInstance: {fileID: 1926488372}
   m_PrefabAsset: {fileID: 0}
