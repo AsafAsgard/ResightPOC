@@ -134,6 +134,10 @@ PrefabInstance:
       propertyPath: _cursorTrn
       value: 
       objectReference: {fileID: 1926488373}
+    - target: {fileID: 8361260455385220980, guid: 67387b5d0a1efba4db32e6aed899c222, type: 3}
+      propertyPath: _banners.Array.data[0].prefab
+      value: 
+      objectReference: {fileID: 8228938860797362815, guid: 019b7f174d9ab6842a5e1ea0d12984c2, type: 3}
     - target: {fileID: 8361260455672002117, guid: 67387b5d0a1efba4db32e6aed899c222, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0

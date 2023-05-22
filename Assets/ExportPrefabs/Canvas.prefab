@@ -182,7 +182,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _banners:
-  - prefab: {fileID: 8228938860797362815, guid: f34a8205acfdc4bce850b7101b6275a1, type: 3}
+  - prefab: {fileID: 8228938860797362815, guid: 019b7f174d9ab6842a5e1ea0d12984c2, type: 3}
     button: {fileID: 8361260455087550020}
   _cursorTrn: {fileID: 0}
 --- !u!225 &8361260455385220939
