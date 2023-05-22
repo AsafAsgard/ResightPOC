@@ -181,7 +181,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &83210478
 GameObject:
@@ -434,7 +434,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6772198443051360822, guid: 3709904aa6b2c24499573f1510544094, type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 6772198443051360822, guid: 3709904aa6b2c24499573f1510544094, type: 3}
       propertyPath: m_LocalPosition.x
@@ -479,6 +479,10 @@ PrefabInstance:
     - target: {fileID: 7777959290839066816, guid: 3709904aa6b2c24499573f1510544094, type: 3}
       propertyPath: m_Name
       value: OfficeScan
+      objectReference: {fileID: 0}
+    - target: {fileID: 7777959290839066816, guid: 3709904aa6b2c24499573f1510544094, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3709904aa6b2c24499573f1510544094, type: 3}
@@ -763,7 +767,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &938328540
 GameObject:
@@ -918,7 +922,7 @@ Transform:
   m_Children:
   - {fileID: 1026117561}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &989730754
 GameObject:
@@ -1364,7 +1368,7 @@ MonoBehaviour:
   _banners:
   - prefab: {fileID: 2861109817877854453, guid: f627a917f3e024c42b037a06d884644e, type: 3}
     button: {fileID: 1118341255}
-  - prefab: {fileID: 2861109817877854453, guid: 41a1efb1cf5dc4a53b78c55b2b6157aa, type: 3}
+  - prefab: {fileID: 2861109817877854453, guid: d95e68da654b6af45a4792bb56db52c3, type: 3}
     button: {fileID: 83210480}
   - prefab: {fileID: 7290382436497514522, guid: 1d32458266c434644b134cf2798929b0, type: 3}
     button: {fileID: 95592811}
@@ -1435,7 +1439,7 @@ Transform:
   m_Children:
   - {fileID: 1926488373}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1510668906
 MonoBehaviour:
@@ -1517,7 +1521,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1561288692
 MonoBehaviour:
@@ -1728,7 +1732,7 @@ RectTransform:
   - {fileID: 1387320115}
   - {fileID: 938328541}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}

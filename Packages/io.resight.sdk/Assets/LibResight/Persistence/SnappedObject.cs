@@ -43,7 +43,7 @@ namespace Resight.Persistence
         /// An Id that represents the prefab, shared between all builds of the scene
         /// </summary>
 #if UNITY_EDITOR
-        [ReadOnly]
+        //[ReadOnly]
 #endif
         [SerializeField]
         private string _prefabId = "";
