@@ -1,0 +1,116 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 0,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 0,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 0,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 0,
+      "type": "VEC4"
+    }
+  ],
+  "asset": {
+    "generator": "resight",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 0,
+      "target": 34963
+    },
+    {
+      "buffer": 1,
+      "byteLength": 0,
+      "byteStride": 40,
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 0,
+      "uri": "data:application/octet-stream;base64,"
+    },
+    {
+      "byteLength": 0,
+      "uri": "data:application/octet-stream;base64,"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "materials": [
+    {
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 3,
+            "NORMAL": 2,
+            "POSITION": 1
+          },
+          "indices": 0,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0
+    },
+    {
+      "children": [
+        0
+      ],
+      "name": "MeshAnchor-463688912246464173",
+      "rotation": [
+        -0.00010311279729579342,
+        0.8864049310996152,
+        -1.1817719654935386e-05,
+        -0.46291066886644483
+      ],
+      "translation": [
+        -2.0268228316692922,
+        -0.19256082954422457,
+        -0.6629988511332795
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        1
+      ]
+    }
+  ]
+}

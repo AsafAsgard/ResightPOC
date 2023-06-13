@@ -1,0 +1,116 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 0,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 0,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 0,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 0,
+      "type": "VEC4"
+    }
+  ],
+  "asset": {
+    "generator": "resight",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 0,
+      "target": 34963
+    },
+    {
+      "buffer": 1,
+      "byteLength": 0,
+      "byteStride": 40,
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 0,
+      "uri": "data:application/octet-stream;base64,"
+    },
+    {
+      "byteLength": 0,
+      "uri": "data:application/octet-stream;base64,"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "materials": [
+    {
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 3,
+            "NORMAL": 2,
+            "POSITION": 1
+          },
+          "indices": 0,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0
+    },
+    {
+      "children": [
+        0
+      ],
+      "name": "MeshAnchor-463728123736153773",
+      "rotation": [
+        -4.931257756422706e-06,
+        0.7349068804617651,
+        0.00019636569026789096,
+        0.6781680016530974
+      ],
+      "translation": [
+        -2.9313866314487784,
+        0.1959283582621161,
+        -0.580514744527058
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        1
+      ]
+    }
+  ]
+}

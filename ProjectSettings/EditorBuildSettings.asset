@@ -5,11 +5,11 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Samples/Resight Engine/0.3.1/Resight Samples/Meshing & Collision/Real-time
       Meshing & Collision.unity
     guid: b58100131c1e7054ca082df9504c5b78
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Placement.unity
     guid: db4e63d9decb91f4e9f6f791e9362468
   m_configObjects:
